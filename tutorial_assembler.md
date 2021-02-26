@@ -138,7 +138,7 @@ NOT reg
 ```
 
 #### SHL e SHR
-Realiza operações de deslocamento de bit para esquerda (SHL) ou direta (SHR) ocasinando em uma multiplicação ou divisão por 2. Essas instruções podem alterar as _flags_ Z e C. 
+Realiza operações de deslocamento de bit para esquerda (SHL) ocasinando em uma multiplicação ou direta (SHR) ocasionando em uma divisão. Essas instruções podem alterar as _flags_ Z e C. 
 
 ```
 SHL reg, reg
