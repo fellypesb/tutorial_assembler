@@ -44,7 +44,7 @@ Este simulador tem característica de uma máquina do tipo **memória-registrado
 
 # Display de saída 
 
-Caso queira exibir informações como se estivesse utilizando um monitor use o _display_ de saídas. Na verdade ele é bastante simples, composto por apenas 24 células ASCII nas quais é possível reproduzir diferentes caracteres como um "Hello World!". Para utilizá-lo basta mover os caracteres que deseja exibir em um local específico da memória os últimos 24 _bytes_.
+Caso queira exibir informações como se estivesse utilizando um monitor use o _display_ de saídas. Na verdade ele é bastante simples, composto por apenas 24 células ASCII nas quais é possível reproduzir diferentes caracteres como um "Hello World!". Para utilizá-lo basta mover os caracteres que deseja exibir em um local específico da memória, os últimos 24 _bytes_.
 
 ![output](https://user-images.githubusercontent.com/52214785/109286903-a3013d80-7801-11eb-87f4-e46e0a0e1de3.png)
 
