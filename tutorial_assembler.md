@@ -220,6 +220,11 @@ for(i=0; i<10; i++){
 
 ![exemplo4](https://user-images.githubusercontent.com/52214785/109292841-be704680-7809-11eb-8be9-3d5ea470965f.png)
 
+Programa que calcula a sequência _fibonacci_
+
+![exemplo6](https://user-images.githubusercontent.com/52214785/109311457-9e9a4c00-7824-11eb-9cf7-d93e0e27cca2.png)
+
+
 Programa que identifica se determinado valor é par ou ímpar. Neste exemplo transformei o registrador D em uma _flag_, se seu valor for 1, indica a presença de um número par no resgistrador A, se seu valor for 0, indica a presença de um número ímpar no registrador A.
 
 ![exemplo5](https://user-images.githubusercontent.com/52214785/109306967-b66ed180-781e-11eb-8c7a-90abc9475d66.png)
