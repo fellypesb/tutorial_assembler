@@ -201,7 +201,7 @@ A = B + C - (D - E)
 ```
 ![exemplo2](https://user-images.githubusercontent.com/52214785/109292762-a3053b80-7809-11eb-8163-9526ac175c6f.png)
 
-Inplementando estrutura condicional _if-then-else_.
+Implementando estrutura condicional _if-then-else_.
 ```
 if (i == j){
     h = i + j 
@@ -212,7 +212,7 @@ if (i == j){
 
 ![exemplo3](https://user-images.githubusercontent.com/52214785/109292810-b31d1b00-7809-11eb-8bac-9697de08dabd.png)
 
-Inplementando a estrutura de repetição `for`.
+Implementando a estrutura de repetição `for`.
 ```
 for(i=0; i<10; i++){
 }
