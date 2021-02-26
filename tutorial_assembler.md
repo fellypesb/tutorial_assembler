@@ -191,7 +191,7 @@ HLT
 
 # Exemplos
 
-Traduzindo operações aritméticas simples o _assembly_ do simulador.
+Traduzindo operações aritméticas simples para o _assembly_ do simulador.
 ```
 A = B + C + D + E
 ```
