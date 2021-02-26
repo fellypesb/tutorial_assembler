@@ -86,7 +86,9 @@ MOV endereço, constante
 
 ##### DB
 Define uma variável. Essa variável pode ser um único número, _string_ ou caracter.
-> DB constante
+```
+DB constante
+```
 
 #### ADD e SUB
 Realiza operações matemáticas de adição e subtração. Adiciona dois valores ou subtrai um valor de outro. Essas operações podem modificar as _flags_ Z e C. Seus operandos podem ser registradores, endereços e constantes.
